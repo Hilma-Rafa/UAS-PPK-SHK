@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="status_options">
+        <item>Organik</item>
+        <item>Non Organik</item>
+    </string-array>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/kodeKualitasTxt"
+        android:layout_width="71dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:text="kode" />
+
+    <TextView
+        android:id="@+id/kualitasTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/komoditasTxt"
+        android:layout_width="82dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/hargaSebelumTxt"
+        android:layout_width="77dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/hargaSekarangTxt"
+        android:layout_width="82dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:text="TextView" />
+</LinearLayout>
